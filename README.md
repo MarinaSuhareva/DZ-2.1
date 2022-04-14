@@ -16,7 +16,8 @@ https://camo.githubusercontent.com/79ee96a8b8fa098c44d1ca302006f24d008408a1c22fc
 
 Ниже пример кода из нашего приложения:
 
-```.selector {
+```css
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
